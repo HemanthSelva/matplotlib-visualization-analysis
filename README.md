@@ -27,7 +27,7 @@ Role: Data Scientist
 ## 📊 Plot Types & Analysis
 
 ### 1. 📈 Line Plot — Monthly Sales Trend
-![Line Plot](outputs/plot1_line.png)
+![Line Plot](plot1_line.png)
 
 Tracks 5 products' monthly sales across 2024. Best for visualizing **trends over time**, revealing growth patterns and seasonal spikes.
 
@@ -36,7 +36,7 @@ Tracks 5 products' monthly sales across 2024. Best for visualizing **trends over
 ---
 
 ### 2. 📊 Bar Plot — Quarterly Revenue by Category
-![Bar Plot](outputs/plot2_bar.png)
+![Bar Plot](plot2_bar.png)
 
 Grouped bar chart comparing Q1–Q4 revenue across 6 product categories. Best for **comparing discrete values** across multiple groups side by side.
 
@@ -45,7 +45,7 @@ Grouped bar chart comparing Q1–Q4 revenue across 6 product categories. Best fo
 ---
 
 ### 3. 🔵 Scatter Plot — Experience vs Salary
-![Scatter Plot](outputs/plot3_scatter.png)
+![Scatter Plot](plot3_scatter.png)
 
 Bubble size represents performance score, colored by department. Best for finding **correlations** between two continuous variables with a 3rd dimension via bubble size.
 
@@ -54,7 +54,7 @@ Bubble size represents performance score, colored by department. Best for findin
 ---
 
 ### 4. 🥧 Pie + Donut Chart — Market Breakdown
-![Pie Donut Chart](outputs/plot4_pie_donut.png)
+![Pie Donut Chart](plot4_pie_donut.png)
 
 Revenue share by product line (pie) and regional customer distribution (donut). Best for **part-of-whole** proportional analysis.
 
@@ -63,7 +63,7 @@ Revenue share by product line (pie) and regional customer distribution (donut). 
 ---
 
 ### 5. 📉 Histogram — Distribution Shapes
-![Histogram](outputs/plot5_histogram.png)
+![Histogram](plot5_histogram.png)
 
 Three histograms showing Normal, Skewed, and Bimodal distributions with Mean vs Median lines. Essential for understanding **data distribution** in EDA.
 
@@ -72,7 +72,7 @@ Three histograms showing Normal, Skewed, and Bimodal distributions with Mean vs 
 ---
 
 ### 6. 🔥 Heatmap — Correlation Matrix + Traffic Analysis
-![Heatmap](outputs/plot6_heatmap.png)
+![Heatmap](plot6_heatmap.png)
 
 Correlation matrix of business KPIs and website traffic by hour/day. Best for **pattern detection** across two dimensions simultaneously.
 
